@@ -7,6 +7,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+//configuring cors in order to connect it with angular
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowReactApp",
