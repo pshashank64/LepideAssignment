@@ -143,6 +143,9 @@ This project provides a web application that allows users to upload text documen
 - **React-spinners for loading purpose till the time model generates the summary**:
   https://www.npmjs.com/package/react-spinners
 
+## Credits
+This project was created as an assignment from "Lepide Softwares", as a part of their hiring process.
+
 ## Contributing
 
 Feel free to fork the repository and submit pull requests. For any issues or feature requests, open an issue in the GitHub repository.
