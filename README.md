@@ -117,6 +117,14 @@ This project provides a web application that allows users to upload text documen
    - After uploading, the React frontend will send the file to the .NET backend.
    - The backend will then call the Python script to generate a summary.
    - The summary will be displayed in the frontend.
+  
+## Github Branches
+
+- **Main Branch**:
+  Main code lies here.
+  
+- **ReviewBranch**:
+  For the code review and pull requests
 
 ## Troubleshooting
 
