@@ -132,6 +132,17 @@ This project provides a web application that allows users to upload text documen
 - **File Upload Errors**:
   Ensure that the file you are uploading is in a supported format(.txt) and does not exceed size limits set by your server configuration.
 
+## References
+
+- **Transformers and Torch**:
+  https://pytorch.org/hub/huggingface_pytorch-transformers/
+  
+- **OpenAI GPT-2 Model for Summarizer**:
+  https://huggingface.co/docs/transformers/en/model_doc/gpt2
+
+- **React-spinners for loading purpose till the time model generates the summary**:
+  https://www.npmjs.com/package/react-spinners
+
 ## Contributing
 
 Feel free to fork the repository and submit pull requests. For any issues or feature requests, open an issue in the GitHub repository.
